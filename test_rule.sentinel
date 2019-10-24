@@ -1,5 +1,5 @@
 test_rule = rule { 
-    false
+    true
 }
 
 main = rule {
